@@ -1,0 +1,2 @@
+D:\FastSearch\FastSearch\Debug\FastSearch.exe
+D:\FastSearch\FastSearch\Debug\FastSearch.pdb
